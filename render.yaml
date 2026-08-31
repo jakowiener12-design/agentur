@@ -1,0 +1,7 @@
+services:
+  - type: web
+    runtime: static
+    name: novara-studio
+    buildCommand: echo "NOVARA STUDIO ready"
+    staticPublishPath: .
+    autoDeployTrigger: commit

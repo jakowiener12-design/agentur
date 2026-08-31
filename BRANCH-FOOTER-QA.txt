@@ -1,0 +1,6 @@
+branche-beauty.html: footer=10, socials=1, whatsapp_icon=True
+branche-gastro.html: footer=10, socials=1, whatsapp_icon=True
+branche-handwerk.html: footer=10, socials=1, whatsapp_icon=True
+branche-medizin.html: footer=10, socials=1, whatsapp_icon=True
+branche-immobilien.html: footer=10, socials=1, whatsapp_icon=True
+branche-automotive.html: footer=10, socials=1, whatsapp_icon=True

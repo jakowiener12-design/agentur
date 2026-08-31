@@ -1,0 +1,13 @@
+Branchen-Demos aktualisiert:
+- Beauty: Treatments + Terminübersicht
+- Gastronomie: Gerichte + Reservierung + Öffnungszeiten
+- Handwerk: Leistungen + Projektablauf + Anfrage
+- Medizin: Praxisleistungen + Terminkalender + Patienteninfos
+- Immobilien: Objektkarten + Preisangaben + Beratung
+- Automotive: Services + Fahrzeugangebote + Preise
+
+Alle Seiten:
+- mit noindex versehen
+- anklickbare interne Navigation
+- Rücklink zur Agenturseite
+- WhatsApp/Kontakt verknüpft

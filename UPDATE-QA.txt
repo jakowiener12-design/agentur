@@ -1,0 +1,13 @@
+NOVARA STUDIO – UPDATE QA
+
+Unerwünschte 1:1-/Übernahme-Formulierungen: 0
+Ladebildschirm: nur beim ersten Einstieg pro Browser-Sitzung
+Interne Seitenwechsel: ohne Fullscreen-Übergang
+
+Branchen-Fußzeilen:
+- branche-beauty.html: 1
+- branche-gastro.html: 1
+- branche-handwerk.html: 1
+- branche-medizin.html: 1
+- branche-immobilien.html: 1
+- branche-automotive.html: 1

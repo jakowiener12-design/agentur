@@ -1,0 +1,28 @@
+NOVARA STUDIO – GITHUB / RENDER FIX
+
+Dein Render-Fehler war:
+Publish directory ./public does not exist.
+
+Diese Version hat deshalb KEINEN public-Ordner.
+index.html, assets/ und render.yaml liegen direkt im Repository-Root.
+
+Vorgehen:
+1. Den Inhalt dieses Ordners in dein GitHub-Repository hochladen.
+2. Wichtig: index.html und render.yaml müssen direkt auf der ersten Ebene liegen.
+3. Bestehende render.yaml ersetzen.
+4. Commit + Push.
+5. In Render: Manual Deploy > Deploy latest commit.
+
+Render-Konfiguration:
+Service Type: Static Site
+Build Command: echo "NOVARA STUDIO static files ready"
+Publish Directory: .
+
+Falls du die Einstellungen manuell in Render eingetragen hast:
+Publish Directory von public auf . ändern.
+
+Nicht verwenden:
+public
+./public
+dist
+build

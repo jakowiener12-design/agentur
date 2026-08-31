@@ -1,0 +1,4 @@
+NOVARA STUDIO DIRECT BUILD
+If this file exists in GitHub together with index.html, the correct package was uploaded.
+Render Publish Directory: ./
+No fullscreen loader is used in this build.

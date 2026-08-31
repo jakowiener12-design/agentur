@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.novara-studio.at/sitemap.xml

@@ -1,0 +1,46 @@
+NOVARA STUDIO – LIVE UPLOAD
+
+DIREKT HOCHLADEN
+1. ZIP entpacken.
+2. Den gesamten Inhalt des Ordners NOVARA_STUDIO_LIVE in den Webspace-Ordner hochladen:
+   - cPanel: public_html
+   - Plesk: httpdocs
+   - klassisches FTP: Webroot der Domain
+3. Danach muss index.html im Webroot liegen.
+
+ENTHALTEN
+- Startseite
+- Leistungen
+- Branchen + 6 Branchen-Demos
+- Referenzen + 6 Case-Study-Seiten
+- Über uns
+- Support
+- Terminbuchung
+- Kontakt
+- Impressum
+- Datenschutz
+- AGB
+- 404-Seite
+- responsive Design
+- Animationen & Seitenwechsel
+- WhatsApp-, Telefon-, Mail-, Google-Maps- und Apple-Karten-Links
+- Social-Media-Icons
+- robots.txt und sitemap.xml
+- .htaccess für HTTPS, 404, Cache und Basis-Sicherheitsheader
+
+VOR DEM ECHTEN LAUNCH ZWINGEND ERSETZEN
+- office@novara-studio.at -> echte E-Mail
+- +43 660 123 45 67 -> echte Telefonnummer
+- WhatsApp-Nummer -> echte Nummer
+- Musterstraße / UID / Firmenbuchdaten im Impressum
+- Social-Media-Links -> echte Profile
+- Rechtstexte juristisch prüfen
+- Falls Ihre echte Domain nicht novara-studio.at lautet:
+  canonical URLs, sitemap.xml und robots.txt entsprechend ändern.
+
+FORMULARE
+Die Kontakt- und Terminanfragen funktionieren aktuell ohne Server-Backend:
+- Kontaktformular kann die Anfrage über WhatsApp senden
+- Kontaktformular kann eine E-Mail im Mailprogramm vorbereiten
+- Terminformular sendet die Daten über WhatsApp
+Für automatische E-Mail-Zustellung ohne Mailprogramm ist später ein Formular-Backend/CRM nötig.

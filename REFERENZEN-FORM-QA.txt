@@ -1,0 +1,7 @@
+Referenzseiten aktualisiert:
+- Jede Referenzseite hat ein eigenes Kontaktformular
+- Jede Referenzseite hat eine eigene Fußzeile
+- Neue Projektnamen eingebaut
+- Unterschiedliche Fotos pro Referenz eingesetzt
+- Keine wiederholten Galerie-Motive innerhalb derselben Referenz
+- Referenzen-Übersicht angepasst
